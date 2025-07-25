@@ -6,11 +6,11 @@ export const skillsData = {
 };
 
 export const personalInfo = {
-  name: "Alex Chen",
+  name: "Ebenezer Thompson",
   title: "Full Stack Developer",
   description: "A passionate Full Stack Developer crafting innovative web applications with modern technologies. I transform ideas into beautiful, functional digital experiences.",
   location: "San Francisco, CA",
-  email: "alex@example.com",
+  email: "ebenezer@example.com",
   phone: "+1 (555) 123-4567",
   availability: "Available for projects",
 };

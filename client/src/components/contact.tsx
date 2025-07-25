@@ -67,7 +67,7 @@ export default function Contact() {
   const contactInfo = [
     {
       icon: Mail,
-      label: "alex@example.com",
+      label: "ebenezer@example.com",
       sublabel: "Email me directly",
     },
     {

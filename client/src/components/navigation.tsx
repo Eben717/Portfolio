@@ -30,7 +30,7 @@ export default function Navigation() {
               onClick={() => scrollToSection('home')}
               className="text-2xl font-bold text-primary hover:text-primary/80 transition-colors"
             >
-              AC
+              ET
             </button>
           </div>
 

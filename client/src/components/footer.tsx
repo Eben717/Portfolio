@@ -34,7 +34,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-3 gap-8">
           <div>
-            <div className="text-2xl font-bold mb-4">Alex Chen</div>
+            <div className="text-2xl font-bold mb-4">Ebenezer Thompson</div>
             <p className="text-gray-300 mb-6">
               Full Stack Developer passionate about creating innovative web solutions
               that make a difference in people's lives.
@@ -82,7 +82,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 Alex Chen. All rights reserved. Built with passion and modern web technologies.</p>
+          <p>&copy; 2024 Ebenezer Thompson. All rights reserved. Built with passion and modern web technologies.</p>
         </div>
       </div>
     </footer>
