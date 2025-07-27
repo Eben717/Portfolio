@@ -6,7 +6,7 @@ import { insertContactSchema } from "@shared/schema";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Get all projects
-  app.get("/api/projects", async (req, res) => {
+app.get("/api/projects", async (_req, res) => {
     try {
       const projects = await storage.getProjects();
       res.json(projects);
@@ -16,7 +16,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
   });
 
   // Get featured projects
-  app.get("/api/projects/featured", async (req, res) => {
+  app.get("/api/projects", async (_req, res) => {
     try {
       const projects = await storage.getFeaturedProjects();
       res.json(projects);
