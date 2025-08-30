@@ -14,7 +14,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-left animate-fade-in">
-            <h1 className="text-5xl lg:text-6xl font-bold text-secondary mb-6 leading-tight">
+            <h1 className="text-5xl lg:text-6xl font-bold text-primary mb-6 leading-tight">
               Hi, I'm <span className="text-primary">Ebenezer Thompson</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
